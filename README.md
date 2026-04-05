@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=GeungYo&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,20,24,30" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Undergraduate+Student;Interested+in+Machine+Learning%2C+IoT%2C+and+Computer+Vision;Building+practical+projects+with+real-world+data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Undergraduate+Student;Interested+in+Machine+Learning%2C+IoT%2C+Computer+Vision%2C+and+3D+Processing;Building+practical+projects+with+real-world+data)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:0h.geungyo@gmail.com">
@@ -16,16 +16,16 @@
 
 ## About Me
 
-I am an AI undergraduate student who enjoys building practical systems rather than only theoretical models.
+Hello, I'm **GeungYo**.  
+I am an AI undergraduate student who enjoys building practical systems that connect software with real-world environments.
 
-I’m especially interested in:
-
+My main interests include:
 - Machine Learning and Deep Learning
 - IoT and sensor-based systems
 - Computer Vision and 3D data processing
-- Projects that connect software with real-world environments
+- End-to-end projects that turn ideas into working prototypes
 
-I like turning ideas into working prototypes and improving them step by step.
+I like improving projects step by step and focusing on systems that actually work in practice.
 
 ---
 
@@ -44,16 +44,22 @@ I like turning ideas into working prototypes and improving them step by step.
 ### AI / Data / Vision
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Open3D-333333?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ### Tools / Platforms
 <p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -61,10 +67,21 @@ I like turning ideas into working prototypes and improving them step by step.
 
 ---
 
+## Interests
+
+- Machine Learning
+- IoT
+- Computer Vision
+- 3D Reconstruction
+- Sensor Data Processing
+- Practical AI Systems
+
+---
+
 ## What I Like Building
 
-- AI models that solve practical problems
-- Sensor-driven systems using real-world signals
+- AI models for real-world problems
+- Sensor-driven systems with meaningful data
 - Computer vision and 3D processing pipelines
 - Small but complete end-to-end prototypes
 
@@ -72,9 +89,19 @@ I like turning ideas into working prototypes and improving them step by step.
 
 ## Current Focus
 
-- Learning more about applied machine learning
-- Building projects with sensing, data, and AI
-- Organizing projects clearly on GitHub
+- Applied machine learning
+- AI projects with sensing and data
+- Building and organizing projects on GitHub
+- Learning through implementation
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" />
+</div>
 
 ---
 
@@ -90,6 +117,6 @@ I like turning ideas into working prototypes and improving them step by step.
 
 <div align="center">
 
-"Keep learning, keep building."
+### Keep learning, keep building.
 
 </div>
